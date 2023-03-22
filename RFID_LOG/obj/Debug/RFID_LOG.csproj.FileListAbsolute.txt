@@ -1,0 +1,25 @@
+C:\Users\khale\OneDrive\Desktop\oreinterings\_myprojects\RFID_LOG\RFID_LOG\bin\Debug\RFID_LOG.exe.config
+C:\Users\khale\OneDrive\Desktop\oreinterings\_myprojects\RFID_LOG\RFID_LOG\bin\Debug\RFID_LOG.exe
+C:\Users\khale\OneDrive\Desktop\oreinterings\_myprojects\RFID_LOG\RFID_LOG\bin\Debug\RFID_LOG.pdb
+C:\Users\khale\OneDrive\Desktop\oreinterings\_myprojects\RFID_LOG\RFID_LOG\obj\Debug\RFID_LOG.csproj.AssemblyReference.cache
+C:\Users\khale\OneDrive\Desktop\oreinterings\_myprojects\RFID_LOG\RFID_LOG\obj\Debug\RFID_LOG.Menu.resources
+C:\Users\khale\OneDrive\Desktop\oreinterings\_myprojects\RFID_LOG\RFID_LOG\obj\Debug\RFID_LOG.Properties.Resources.resources
+C:\Users\khale\OneDrive\Desktop\oreinterings\_myprojects\RFID_LOG\RFID_LOG\obj\Debug\RFID_LOG.csproj.GenerateResource.cache
+C:\Users\khale\OneDrive\Desktop\oreinterings\_myprojects\RFID_LOG\RFID_LOG\obj\Debug\RFID_LOG.csproj.CoreCompileInputs.cache
+C:\Users\khale\OneDrive\Desktop\oreinterings\_myprojects\RFID_LOG\RFID_LOG\obj\Debug\RFID_LOG.exe
+C:\Users\khale\OneDrive\Desktop\oreinterings\_myprojects\RFID_LOG\RFID_LOG\obj\Debug\RFID_LOG.pdb
+C:\Users\khale\OneDrive\Desktop\oreinterings\_myprojects\RFID_LOG\RFID_LOG\obj\Debug\RFID_LOG.Logging.resources
+C:\Users\khale\OneDrive\Desktop\oreinterings\_myprojects\RFID_LOG\RFID_LOG\obj\Debug\RFID_LOG.RegiserId.resources
+C:\Users\khale\OneDrive\Desktop\My Prosjekt\RFID_LOG\RFID_LOG\bin\Debug\RFID_LOG.exe.config
+C:\Users\khale\OneDrive\Desktop\My Prosjekt\RFID_LOG\RFID_LOG\bin\Debug\RFID_LOG.exe
+C:\Users\khale\OneDrive\Desktop\My Prosjekt\RFID_LOG\RFID_LOG\bin\Debug\RFID_LOG.pdb
+C:\Users\khale\OneDrive\Desktop\My Prosjekt\RFID_LOG\RFID_LOG\obj\Debug\RFID_LOG.csproj.AssemblyReference.cache
+C:\Users\khale\OneDrive\Desktop\My Prosjekt\RFID_LOG\RFID_LOG\obj\Debug\RFID_LOG.csproj.SuggestedBindingRedirects.cache
+C:\Users\khale\OneDrive\Desktop\My Prosjekt\RFID_LOG\RFID_LOG\obj\Debug\RFID_LOG.Logging.resources
+C:\Users\khale\OneDrive\Desktop\My Prosjekt\RFID_LOG\RFID_LOG\obj\Debug\RFID_LOG.Menu.resources
+C:\Users\khale\OneDrive\Desktop\My Prosjekt\RFID_LOG\RFID_LOG\obj\Debug\RFID_LOG.Properties.Resources.resources
+C:\Users\khale\OneDrive\Desktop\My Prosjekt\RFID_LOG\RFID_LOG\obj\Debug\RFID_LOG.RegiserId.resources
+C:\Users\khale\OneDrive\Desktop\My Prosjekt\RFID_LOG\RFID_LOG\obj\Debug\RFID_LOG.csproj.GenerateResource.cache
+C:\Users\khale\OneDrive\Desktop\My Prosjekt\RFID_LOG\RFID_LOG\obj\Debug\RFID_LOG.csproj.CoreCompileInputs.cache
+C:\Users\khale\OneDrive\Desktop\My Prosjekt\RFID_LOG\RFID_LOG\obj\Debug\RFID_LOG.exe
+C:\Users\khale\OneDrive\Desktop\My Prosjekt\RFID_LOG\RFID_LOG\obj\Debug\RFID_LOG.pdb
